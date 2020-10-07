@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=NaturalNumber(int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ NaturalNumber\n\ \n\ @param\ \ n\ \ \ an\ integer\ representing\ a\ natural\ number\n
+comment1.params=
+comment1.target=java.lang.String\ findTheFactors()
+comment1.text=\n\ Builds\ a\ String\ showing\ all\ of\ the\ positive\ integer\ factors\ of\ the\ parameter\n\ \n\ @return\ \ \ \ \ a\ String\ showing\ all\ positive\ factors\ of\ myNaturalNum\n
+comment2.params=
+comment2.target=java.lang.String\ primeFactors()
+comment2.text=\n\ Builds\ a\ String\ showing\ the\ prime\ factorization\ of\ myNaturalNum\n\ \n\ @return\ \ \ \ \ a\ String\ containing\ the\ prime\ factorization\ of\ myNaturalNum\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
